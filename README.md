@@ -16,7 +16,7 @@ For more information about WhatsTheWord and to sign up for the prelaunch, please
 
 I am well-versed in **Amazon Web Services (AWS)** tools and technologies, with expertise in cloud solutions, deployment strategies, and architecture design.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 ---
 
@@ -27,16 +27,40 @@ I am well-versed in **Amazon Web Services (AWS)** tools and technologies, with e
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=for-the-badge&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge&logoColor=fff)
 
 ---
 
 ### GitHub Stats 📊
 
-> **Note:** The stats below reflect activity from my **public repositories only** and do not include private contributions.
+> **Note:** The stats below reflect activity from my **public repositories only** and do **NOT** include private contributions.
 
 ![Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astroid45&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroid45&layout=compact&theme=radical)
 
 ---
+
+### Follow Me 🌐
+
+Connect with me on LinkedIn to stay updated with my professional journey and projects:
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/xrogers45/)
+
+For more updates, you can also check out:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astroid45)  [![WhatsTheWord](https://img.shields.io/badge/WhatsTheWord-%23000000.svg?style=for-the-badge&logo=globe&logoColor=white)](https://whatstheword.live)
+
+
+
+
