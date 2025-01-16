@@ -12,7 +12,7 @@ For more information about WhatsTheWord and to sign up for the prelaunch, please
 
 ---
 
-### Tools 🛠️
+## Tools 🛠️
 
 I am well-versed in **Amazon Web Services (AWS)** tools and technologies, with expertise in cloud solutions, deployment strategies, and architecture design.
 
@@ -22,7 +22,6 @@ I am well-versed in **Amazon Web Services (AWS)** tools and technologies, with e
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Containers](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,7 +40,38 @@ I am well-versed in **Amazon Web Services (AWS)** tools and technologies, with e
 
 ---
 
-### GitHub Stats 📊
+## Keystone Projects 🌟
+
+### AWS Container Marketplace Pipeline  
+As part of my internship, I designed and implemented an **AWS CodePipeline** that simplifies the process of uploading container products to the AWS Marketplace. Using **AWS EKS (Elastic Kubernetes Service)** and **AWS CloudFormation**, I developed infrastructure templates to automate pipeline creation for customer use. This project provided valuable experience in cloud automation, infrastructure as code (IaC), and deploying containerized applications within AWS services.  
+
+**Key Skills:** Kubernetes · Amazon EKS · AWS CodePipeline · AWS CloudFormation  
+
+---
+
+### WhatsTheWord Social Media App  
+I am currently working on **WhatsTheWord**, a live-service social media app that bridges the gap between students and their campus networks.  
+The app provides:  
+- 📃 **Personalized News Feeds** for updates tailored to user interests.  
+- 💬 **Lounge Rooms** where students can chat and collaborate.  
+- 📅 **Live Event Feeds** to keep students informed about campus happenings.  
+
+Built with **React Native**, **JavaScript**, **Firebase**, and **Expo Go**, this app aims to enhance student engagement and connectivity.  
+
+---
+
+### Neural Network Training on Housing Dataset  
+In this project, I implemented two neural networks, a **Regressor** and a **Classifier**, to analyze the Boston Housing dataset.  
+- The **Regressor** predicts the median value of owner-occupied homes (in $1,000s).  
+- The **Classifier** performs multi-class classification to predict digits from 0 to 9.  
+
+This experience strengthened my understanding of machine learning techniques, data preprocessing, and neural network architecture.  
+
+**Key Skills:** Scikit-Learn · Pandas · Neural Network Design & Training  
+
+---
+
+## GitHub Stats 📊
 
 > **Note:** The stats below reflect activity from my **public repositories only** and do **NOT** include private contributions.
 
@@ -51,7 +81,7 @@ I am well-versed in **Amazon Web Services (AWS)** tools and technologies, with e
 
 ---
 
-### Follow Me 🌐
+## Follow Me 🌐
 
 Connect with me on LinkedIn to stay updated with my professional journey and projects:
 
@@ -60,7 +90,3 @@ Connect with me on LinkedIn to stay updated with my professional journey and pro
 For more updates, you can also check out:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astroid45)  [![WhatsTheWord](https://img.shields.io/badge/WhatsTheWord-%23000000.svg?style=for-the-badge&logo=globe&logoColor=white)](https://whatstheword.live)
-
-
-
-
